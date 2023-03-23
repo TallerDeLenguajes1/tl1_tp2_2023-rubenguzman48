@@ -1,2 +1,5 @@
 Respuestas tp2
-f- 
+f- No puedo verlo porque al cambiar de branch solo nos mostrara en el explorador los archivos que esten en ese branch
+- La diferencia que se nota es que se genera una nueva rama paralela a nuestro branch main
+- Cuanto hacemos el merge se ve como la rama Opcion_2 se une a la rama main
+
